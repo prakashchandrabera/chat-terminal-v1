@@ -51,7 +51,7 @@ brew install cloudflared
 python.exe -m pip install aiohttp prompt_toolkit
 
 # Run
-python.exe .\term_chat_minimal.py
+python.exe .\chat-terminal.py
 
 **Requirements**
 Python 3.x
